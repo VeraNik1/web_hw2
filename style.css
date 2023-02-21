@@ -1,0 +1,36 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(130, 181, 164);
+    text-align: justify;
+}
+
+a{
+    color: rgb(7, 45, 38);
+    font: 1em sans-serif;
+    font-size: larger;
+
+}
+header{
+    background-color: rgb(199, 243, 228);
+    text-align: center;
+    padding: 10px 20px 20px 10px;
+}
+footer{
+    background-color: rgb(24, 73, 57);
+    text-align: center;
+    padding: 10px 20px 20px 10px;
+    font-size: small;
+}
+h2{
+    color: rgb(22, 4, 54);
+}
+ul{
+    font-size: large;
+    color: blue;
+    font-style: italic;
+}
+ol{
+    font-size: large;
+    color: rgb(128, 54, 143);
+    font-style: italic;
+}
